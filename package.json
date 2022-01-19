@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
-    "postrelease": "git push --follow-tags && conventional-github-releaser"
+    "postrelease": "echo postrelease && git push --follow-tags && CONVENTIONAL_GITLAB_RELEASER_TOKEN=asdf conventional-github-releaser"
   },
   "repository": {
     "type": "git",
