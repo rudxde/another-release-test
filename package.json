@@ -1,0 +1,24 @@
+{
+  "name": "another-release-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version",
+    "postrelease": "git push --follow-tags && conventional-github-releaser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudxde/another-release-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudxde/another-release-test/issues"
+  },
+  "homepage": "https://github.com/rudxde/another-release-test#readme",
+  "devDependencies": {
+    "conventional-github-releaser": "^3.1.5",
+    "standard-version": "^9.3.2"
+  }
+}
