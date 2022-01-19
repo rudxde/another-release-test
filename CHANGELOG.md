@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/rudxde/another-release-test/compare/v0.0.5...v0.0.6) (2022-01-19)
+
+
+### Features
+
+* **ci:** remove github release ([52ac877](https://github.com/rudxde/another-release-test/commit/52ac8779fbfdd92635d284461667bac4249cc0d5))
+
 ### [0.0.5](https://github.com/rudxde/another-release-test/compare/v0.0.4...v0.0.5) (2022-01-19)
 
 
