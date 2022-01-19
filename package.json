@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version",
-    "postrelease": "echo postrelease && git push --follow-tags && export CONVENTIONAL_GITLAB_RELEASER_TOKEN=a && conventional-github-releaser"
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
