@@ -9,6 +9,18 @@ All notable changes to this project will be documented in this file. See [standa
 
 * **ci:** add versionrc ([cf340d1](https://github.com/rudxde/another-release-test/commit/cf340d16d600703324e2f00a4cdaa84ba124e494))
 
+
+### Chores
+
+* **release:** 0.0.7 ([952dec0](https://github.com/rudxde/another-release-test/commit/952dec023a4d7c0cb83e501487423aed8e12c82e))
+
+### [0.0.7](https://github.com/rudxde/another-release-test/compare/v0.0.6...v0.0.7) (2022-01-19)
+
+
+### Features
+
+* **ci:** add versionrc ([cf340d1](https://github.com/rudxde/another-release-test/commit/cf340d16d600703324e2f00a4cdaa84ba124e494))
+
 ### [0.0.6](https://github.com/rudxde/another-release-test/compare/v0.0.5...v0.0.6) (2022-01-19)
 
 
