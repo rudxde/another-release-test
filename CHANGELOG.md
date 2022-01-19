@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/rudxde/another-release-test/compare/v0.0.4...v0.0.5) (2022-01-19)
+
+
+### Bug Fixes
+
+* **ci:** try again ([6bdb642](https://github.com/rudxde/another-release-test/commit/6bdb642a5504a8553b025f709855459df3788c51))
+
 ### [0.0.4](https://github.com/rudxde/another-release-test/compare/v0.0.3...v0.0.4) (2022-01-19)
 
 
